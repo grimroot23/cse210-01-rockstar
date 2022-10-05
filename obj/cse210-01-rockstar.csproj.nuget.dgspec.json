@@ -1,27 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\clayt\\OneDrive\\Documents\\GitHub\\cse210-01-rockstar\\cse210-01-rockstar.csproj": {}
+    "C:\\Users\\Nick\\Desktop\\cse210\\cse210-01-rockstar\\cse210-01-rockstar.csproj": {}
   },
   "projects": {
-    "C:\\Users\\clayt\\OneDrive\\Documents\\GitHub\\cse210-01-rockstar\\cse210-01-rockstar.csproj": {
+    "C:\\Users\\Nick\\Desktop\\cse210\\cse210-01-rockstar\\cse210-01-rockstar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\clayt\\OneDrive\\Documents\\GitHub\\cse210-01-rockstar\\cse210-01-rockstar.csproj",
+        "projectUniqueName": "C:\\Users\\Nick\\Desktop\\cse210\\cse210-01-rockstar\\cse210-01-rockstar.csproj",
         "projectName": "cse210-01-rockstar",
-        "projectPath": "C:\\Users\\clayt\\OneDrive\\Documents\\GitHub\\cse210-01-rockstar\\cse210-01-rockstar.csproj",
-        "packagesPath": "C:\\Users\\clayt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\clayt\\OneDrive\\Documents\\GitHub\\cse210-01-rockstar\\obj\\",
+        "projectPath": "C:\\Users\\Nick\\Desktop\\cse210\\cse210-01-rockstar\\cse210-01-rockstar.csproj",
+        "packagesPath": "C:\\Users\\Nick\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nick\\Desktop\\cse210\\cse210-01-rockstar\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\clayt\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Nick\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
-        "sources": {
-          "https://api.nuget.org/v3/index.json": {}
-        },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",

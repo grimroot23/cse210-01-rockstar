@@ -1,0 +1,15 @@
+C:\Users\Nick\Desktop\cse210\cse210-01-rockstar\bin\Debug\net6.0\cse210-01-rockstar.exe
+C:\Users\Nick\Desktop\cse210\cse210-01-rockstar\bin\Debug\net6.0\cse210-01-rockstar.deps.json
+C:\Users\Nick\Desktop\cse210\cse210-01-rockstar\bin\Debug\net6.0\cse210-01-rockstar.runtimeconfig.json
+C:\Users\Nick\Desktop\cse210\cse210-01-rockstar\bin\Debug\net6.0\cse210-01-rockstar.dll
+C:\Users\Nick\Desktop\cse210\cse210-01-rockstar\bin\Debug\net6.0\cse210-01-rockstar.pdb
+C:\Users\Nick\Desktop\cse210\cse210-01-rockstar\obj\Debug\net6.0\cse210-01-rockstar.csproj.AssemblyReference.cache
+C:\Users\Nick\Desktop\cse210\cse210-01-rockstar\obj\Debug\net6.0\cse210-01-rockstar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nick\Desktop\cse210\cse210-01-rockstar\obj\Debug\net6.0\cse210-01-rockstar.AssemblyInfoInputs.cache
+C:\Users\Nick\Desktop\cse210\cse210-01-rockstar\obj\Debug\net6.0\cse210-01-rockstar.AssemblyInfo.cs
+C:\Users\Nick\Desktop\cse210\cse210-01-rockstar\obj\Debug\net6.0\cse210-01-rockstar.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Desktop\cse210\cse210-01-rockstar\obj\Debug\net6.0\cse210-01-rockstar.dll
+C:\Users\Nick\Desktop\cse210\cse210-01-rockstar\obj\Debug\net6.0\refint\cse210-01-rockstar.dll
+C:\Users\Nick\Desktop\cse210\cse210-01-rockstar\obj\Debug\net6.0\cse210-01-rockstar.pdb
+C:\Users\Nick\Desktop\cse210\cse210-01-rockstar\obj\Debug\net6.0\cse210-01-rockstar.genruntimeconfig.cache
+C:\Users\Nick\Desktop\cse210\cse210-01-rockstar\obj\Debug\net6.0\ref\cse210-01-rockstar.dll
